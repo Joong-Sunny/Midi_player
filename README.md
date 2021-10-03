@@ -1,4 +1,4 @@
-# &#9836; MidiPlayerJS
+# &#9836; Lets_midi(minimum function of midi player)
 It initialized from project musain with team RUBATON, adding minimum function of playing multitrack midi file
 
 ## source
